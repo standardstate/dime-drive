@@ -1,2 +1,2 @@
 # "El Cheapo" drive
-System on a dime project called "drive" that is a personal file index and storage application.
+"El Cheapo" series project called "drive" that is a personal file index and storage application.
